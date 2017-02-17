@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1 align="center">Welcome to JOSEPH DevOps Demo....!!! </h1> 
+<h1 align="center">Welcome to JOSEPH DevOps Demos....!!! </h1> 
 <h3>Continuous Integration and Continuous Deployment Pipeline....!</h3>
   <h1>THE END</h1>
 
